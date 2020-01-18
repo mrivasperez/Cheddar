@@ -11,7 +11,7 @@ Cheddar is a super simple, dynamic web app designed to help people make their mo
 ## Installation
 You can use this app in the live preview: <https://mrivasperez.github.io/Cheddar/> If you would prefer to load this webpage locally, you can download the files as a zipe file. Create a new folder in your system then drap and drop the contents of the zip file to that folder. Double click "index.html" to open the app.
 
-## Usage
+## How to Use
 ### Adding Income:
 The user can reflect the amount of money they expect to receive by entering the numeric amount (without commas) into the green income box. The income will then be reflected under the "IN" column with a dollar bill icon. If the user does not enter an amount, or enters a negative number, they will be met with an error that lasts 3 seconds.
 ### Adding Expense
