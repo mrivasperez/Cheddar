@@ -1,7 +1,7 @@
 # Cheddar: A (super) Simple Budgeting App
 by mrivasperez. live preview: <https://mrivasperez.github.io/Cheddar/>
 
-## Preview
+## Screenshot
 
 ![A screenshot of Chrome running Cheddar](preview.png)
 
