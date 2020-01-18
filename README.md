@@ -1,2 +1,1 @@
-# Gouda
- A simple budgeting app
+# Gouda: A Simple Budgeting App
