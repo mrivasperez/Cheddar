@@ -1,1 +1,1 @@
-# Gouda: A Simple Budgeting App
+# Cheddar: A (super) Simple Budgeting App
