@@ -1,6 +1,10 @@
 # Cheddar: A (super) Simple Budgeting App
 by mrivasperez. live preview: <https://mrivasperez.github.io/Cheddar/>
 
+## Preview
+
+![A screenshot of Chrome running Cheddar][preview.png]
+
 ## Description
 Cheddar is a super simple, dynamic web app designed to help people make their monthly, weekly, daily budget. I created while watching a code along on Coding Addict's YouTube channel. It is developed with HTML, CSS (custom sheets, Bootstrap 4.1.1), and Vanilla JS. 
 
