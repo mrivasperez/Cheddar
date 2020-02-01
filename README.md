@@ -6,7 +6,7 @@ by mrivasperez. live preview: <https://mrivasperez.github.io/Cheddar/>
 ![A screenshot of Chrome running Cheddar](preview.png)
 
 ## Description
-Cheddar is a super simple, dynamic web app designed to help people make their monthly, weekly, daily budget. I created while watching a code along on Coding Addict's YouTube channel. It is developed with HTML, CSS (custom sheets, Bootstrap 4.1.1), and Vanilla JS. 
+Cheddar is a super simple, dynamic web app designed to help people make their monthly, weekly, daily budget. It has a very simple interface. I created while watching a code along on Coding Addict's YouTube channel. It is developed with HTML, CSS (custom sheets, Bootstrap 4.1.1), and Vanilla JS. 
 
 ## Installation
 You can use this app in the live preview: <https://mrivasperez.github.io/Cheddar/> If you would prefer to load this webpage locally, you can download the files as a zipe file. Create a new folder in your system then drap and drop the contents of the zip file to that folder. Double click "index.html" to open the app.
